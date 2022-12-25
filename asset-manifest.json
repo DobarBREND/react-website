@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.aacd60a4.css",
+    "main.js": "/react-website/static/js/main.10b0cf29.js",
+    "static/js/787.b35e34f4.chunk.js": "/react-website/static/js/787.b35e34f4.chunk.js",
+    "static/media/pizzaMessage.png": "/react-website/static/media/pizzaMessage.eef7afe85834506784ee.png",
+    "static/media/pizza30.jpg": "/react-website/static/media/pizza30.02d96602fe5ea71b7112.jpg",
+    "static/media/pineapple1.jpg": "/react-website/static/media/pineapple1.5e047cd5da2d81a860a3.jpg",
+    "static/media/special.jpg": "/react-website/static/media/special.dd9603b2c5206ec086ee.jpg",
+    "static/media/vegan1.jpg": "/react-website/static/media/vegan1.ee2d6439a42daa5ae16f.jpg",
+    "static/media/LogoSuperPizza.png": "/react-website/static/media/LogoSuperPizza.c3467d39adc1a64c19ac.png",
+    "static/media/pizza10.jpg": "/react-website/static/media/pizza10.566349b17f3c3bcf8784.jpg",
+    "static/media/pepperoni1.jpg": "/react-website/static/media/pepperoni1.53cc8c222ced48f1eaae.jpg",
+    "static/media/worldpizza.jpg": "/react-website/static/media/worldpizza.e04adcec8b3a4657e630.jpg",
+    "static/media/margherita1.jpg": "/react-website/static/media/margherita1.e01186656435467a48ce.jpg",
+    "index.html": "/react-website/index.html",
+    "main.aacd60a4.css.map": "/react-website/static/css/main.aacd60a4.css.map",
+    "main.10b0cf29.js.map": "/react-website/static/js/main.10b0cf29.js.map",
+    "787.b35e34f4.chunk.js.map": "/react-website/static/js/787.b35e34f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aacd60a4.css",
+    "static/js/main.10b0cf29.js"
+  ]
+}
